@@ -1,10 +1,8 @@
 <h1 align="center">Hi there 👋 I'm Fadel Amili</h1>
 
-<div align="center">
-Introducing my name <b>Fadel Amili</b>.
-
-I am a **Student** at [Universitas Muhammadiyah Jakarta](https://umj.ac.id/).
-
+<div align="left">
+I am a <b>Student</b> at [Universitas Muhammadiyah Jakarta](https://umj.ac.id/).
+<br>
 If you are interested in getting to know me, please follow my social accounts.
 </div>
 
